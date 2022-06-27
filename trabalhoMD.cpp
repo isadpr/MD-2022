@@ -1,5 +1,11 @@
 // TRABALHO MATEMATICA DISCRETA
 // GRUPO: ISABELE ROCHA, GUILHERME BOIKO, LUCAS PEREIRA E MATHEUS PEREIRA
+// O seu programa inicialmente deverá ler a quantidade de elementos do conjunto A, 
+// do conjunto B e do conjunto C. A seguir o programa deverá ler os elementos do
+// conjunto A, os elementos do conjunto B e os elementos do conjunto C. O programa
+// deverá calcular e exibir Ax(BuC) e calcular e exibir (AxB)u(AxC) provando que
+// os resultados são iguais. Para facilitar considere que os 3 conjuntos terão
+// apenas números inteiros positivos.
 
 #include <iostream>
 using namespace std;
